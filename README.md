@@ -32,7 +32,9 @@ A Python tool to analyze healthcare costs using the `prasad22/healthcare-dataset
 
 3. **Run the Program**
    - Input the following line into the terminal
-     python3 healthCare_analyzer
+   ```bash
+   python3 healthCare_analyzer
+   ```
 
 **Enjoy**
 
